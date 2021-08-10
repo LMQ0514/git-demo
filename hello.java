@@ -4,6 +4,6 @@ public class hello{
 		System.out.println("master 合并");
 		分支修改
 		haha	
-
+		new change
 }
 }
